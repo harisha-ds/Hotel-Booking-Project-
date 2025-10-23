@@ -31,7 +31,7 @@ Through data cleaning, EDA, and visualization, I built an end-to-end analysis th
 This project helped me strengthen my analytical workflow — from raw data in Excel to actionable insights in Power BI.  
 
 
-#Conclusion : 
+# Conclusion : 
 The hotel booking analysis revealed clear patterns in customer behavior and revenue performance.   
 Seasonal demand peaks mid-year, while longer lead times and online bookings show higher cancellation risks.   
 Premium room types and meal plans generate greater revenue, though repeat guests remain low.  
